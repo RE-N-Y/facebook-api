@@ -1,0 +1,110 @@
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.
+Zhennovate LLC: 
+Zhennovate LLC: Check this out dude!
+JiangBowen: Bowen
+Sangwu Lee: Testing Zhennovate
+Zhennovate LLC: Testing Zhennovate
+JiangBowen: Biu biu biu
+Zhennovate LLC: Zhennovate?
+Zhennovate LLC: this is the admin
+Sangwu Lee: Yes Zhennovate!
+Zhennovate LLC: This was a chatbot text example
+Jason Trigg: testing chatbot off
+Zhennovate LLC: hi Jason's new profile
+Jason Trigg: testing bot off
+Jason Trigg: testing again
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.
+Zhennovate LLC: 
+Jason Trigg: testing chatfuel
+Jason Trigg: 
+Brian Whittaker: test from Jason's new profile
+Zhennovate LLC: This is the screenshot of what I see on IPhone when you sent an incoming message
+Jason Trigg: Jjjjj
+Zhennovate LLC: HI Jason!
+Jason Trigg: Hi this is Jason testing
+Zhennovate LLC: chatting to Di's contact
+Zhennovate LLC: 
+Xin Jin: hello
+Zhennovate LLC: Hi Jason
+Zhennovate LLC: Hello People!
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.sticker: undefined
+Zhennovate LLC: This is the screenshot of what I see on IPhone when you sent an incoming messagesticker: undefined
+Zhennovate LLC: Testingsticker: undefined
+Jason Trigg: testing bot offsticker: undefined
+Jason Trigg: sticker: undefined
+Zhennovate LLC: Check this out dude!sticker: undefined
+Zhennovate LLC: sticker: undefined
+Jason Trigg: testing againsticker: undefined
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.sticker: undefined
+Zhennovate LLC: HI Jason!sticker: undefined
+Jason Trigg: Jjjjjsticker: undefined
+Zhennovate LLC: sticker: undefined
+Zhennovate LLC: Testingsticker: undefined
+Jason Trigg: testing chatbot offsticker: undefined
+Zhennovate LLC: Hi Jasonsticker: undefined
+Jason Trigg: Hi this is Jason testingsticker: undefined
+Zhennovate LLC: This was a chatbot text examplesticker: undefined
+Zhennovate LLC: The Default Answer block is your bot's default response to any input from a user.
+
+To change it, just open your bot’s dashboard on https://chatfuel.com.
+
+Create messages in this block that will guide your users.
+
+Make sure to avoid creating conversation dead-ends. You can add buttons that lead users to other blocks.
+
+Remember to use “Set Up AI” to choose what blocks to show based on users' specific inputs.sticker: undefined
+Zhennovate LLC: Zhennovate?sticker: undefined
+Zhennovate LLC: sticker: undefined
+Sangwu Lee: Yes Zhennovate!sticker: undefined
+Jason Trigg: testing chatfuelsticker: undefined
+Zhennovate LLC: Testing Zhennovatesticker: undefined
+Zhennovate LLC: hi Jason's new profilesticker: undefined
+Sangwu Lee: Testing Zhennovatesticker: undefined
+Zhennovate LLC: Hello People!sticker: undefined
+Zhennovate LLC: chatting to Di's contactsticker: undefined
+JiangBowen: Bowensticker: undefined
+Brian Whittaker: test from Jason's new profilesticker: undefined
+JiangBowen: Biu biu biusticker: undefined
+Xin Jin: hellosticker: undefined
+Zhennovate LLC: this is the adminsticker: undefined
