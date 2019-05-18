@@ -1,15 +1,15 @@
 {
   "name": "zhennovate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Downloads all messages sent to a Facebook Page",
+  "main": "downloadFacebookPageMessages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sangwu Lee, Kurt von Laven",
   "license": "ISC",
   "dependencies": {
     "fb": "^2.0.0",
-    "fbgraph": "^1.4.1"
+    "request-promise-native": "^1.0.7"
   }
 }
